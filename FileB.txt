@@ -1,0 +1,2 @@
+This is FileB
+initialized repo for FileB
